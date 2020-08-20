@@ -42,7 +42,7 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cdong1012)](https://github.com/anuraghazra/github-readme-stats)
 [website]: https://cdong1012.github.io/
 [linkedin]: https://www.linkedin.com/in/chuong-dong-1012/
 [instagram]: https://www.instagram.com/cpeterr/
