@@ -3,7 +3,7 @@
 
 ## Hello, I'm Peter!
 
-## I'm a third-year CS student at Georgia Institute of Technology!
+## I'm a third-year CS major at Georgia Institute of Technology!
 - :electric_plug: I'm currently an Information Technology Intern - Network Engineering at [Union Pacific](https://www.up.com/index.htm) for Fall 2020
 - :space_invader: I'm currently learning malware analysis and malware development in my free time!
 - :star: 2020 goals: I want to spend more time learning networking and network security
