@@ -20,18 +20,20 @@
 <br />
 
 ### Languages and tools I use:
-<i class="devicon-c-plain-wordmark colored"></i>
-<i class="devicon-cplusplus-plain-wordmark colored"></i>
-<i class="devicon-debian-plain-wordmark colored"></i>
-<i class="devicon-git-plain colored"></i>
-<i class="devicon-github-plain"></i>
-<i class="devicon-java-plain-wordmark colored"></i>
-<i class="devicon-linux-plain colored"></i>
-<i class="devicon-python-plain colored"></i>
-<i class="devicon-rust-plain colored"></i> 
-<i class="devicon-vim-plain colored"></i>
-<i class="devicon-visualstudio-plain colored"></i>
-<i class="devicon-ubuntu-plain colored"></i>
+
+<img align="left" alt="C" width="28px" src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/c/c_24x24.png" /> 
+<img align="left" alt="C++" width="28px" src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/cpp/cpp_32x32.png" />
+<img align="left" alt="Debian" width="25px" src="https://www.debian.org/logos/openlogo-nd-25.png" />
+<img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" />
+<img align="left" alt="Github" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/github/github.png" />
+<img align="left" alt="Java" width="28px" src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/java/java_32x32.png" />
+<img align="left" alt="Linux" width="28px" src="https://raw.githubusercontent.com/github/explore/master/topics/linux/linux.png" />
+<img align="left" alt="Python" width="28px" src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/python/python_32x32.png" />
+<img align="left" alt="Rust" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/rust/rust.png" />
+<img align="left" alt="Vim" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/vim/vim.png" />
+<img align="left" alt="VSCode" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="Ubuntu" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/ubuntu/ubuntu.png" />
+
 
 <br />
 <br />

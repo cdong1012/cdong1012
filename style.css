@@ -40,3 +40,9 @@
 .devicon-ubuntu-plain {
     font-size: 2rem
 }
+
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
