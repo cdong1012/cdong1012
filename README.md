@@ -7,7 +7,7 @@
 - :electric_plug: I'm currently an Information Technology Intern - Network Engineering at [Union Pacific](https://www.up.com/index.htm) for Fall 2020
 - :space_invader: I'm currently learning malware analysis and malware development in my free time!
 - :star: 2020 goals: I want to spend more time learning networking and network security
-- :octopus: Most favorite languages: Python <i class="devicon-python-plain colored"></i> and Rust <i class="devicon-rust-plain colored"></i>
+- :octopus: Most favorite languages: Python <img alt="Python" width="28px" src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/python/python_32x32.png" /> and Rust <img alt="Rust" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/rust/rust.png" />
 
 
 ### Connect with me:
