@@ -33,10 +33,15 @@
 <img align="left" alt="Vim" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/vim/vim.png" />
 <img align="left" alt="VSCode" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Ubuntu" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/ubuntu/ubuntu.png" />
-
+<img align="left" alt="Terminal" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br />
 <br />
+
+## :computer: My latest blog posts 
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 
 [website]: https://cdong1012.github.io/
 [linkedin]: https://www.linkedin.com/in/chuong-dong-1012/
