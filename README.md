@@ -40,11 +40,11 @@
 
 ## :computer: My latest blog posts 
 <!-- BLOG-POST-LIST:START -->
+- [Open Shortest Path First](https://cdong1012.github.io//network%20engineering/2020/08/23/OSPF/)
 - [Malware Launching - Process Hollowing](https://cdong1012.github.io//malware%20development/2020/08/19/Process-Hollowing/)
 - [Malware Launching - DLL Injection](https://cdong1012.github.io//malware%20development/2020/08/16/DLL-Injection/)
 - [PE Parser](https://cdong1012.github.io//reverse%20engineering/2020/08/15/PE-Parser/)
 - [CSCML2020 CTF Write-up](https://cdong1012.github.io//reverse%20engineering/2020/07/05/CSCML2020-RE/)
-- [Rust Ransomware (Part 3)](https://cdong1012.github.io//malware%20development/2020/06/27/rust-ransomware3/)
 <!-- BLOG-POST-LIST:END -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cdong1012)](https://github.com/anuraghazra/github-readme-stats)
