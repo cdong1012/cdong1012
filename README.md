@@ -1,7 +1,7 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/konpa/devicon@master/devicon.min.css">
 <link rel="stylesheet" type="text/css" href="style.css">
 
-## Hello, I'm Peter!
+## Hello, I'm Chuong!
 
 ## I'm a third-year CS major at Georgia Institute of Technology!
 - :electric_plug: I'm currently an Information Technology Intern - Network Engineering at [Union Pacific](https://www.up.com/index.htm) for Fall 2020
