@@ -41,10 +41,10 @@
 ## :computer: My latest blog posts 
 <!-- BLOG-POST-LIST:START -->
 - [Reversing.kr - Replace](https://cdong1012.github.io//reverse%20engineering/2020/09/10/Reversing-kr-3/)
+- [Reversing.kr - Ransomware](https://cdong1012.github.io//reverse%20engineering/2020/09/10/Reversing-kr-4/)
 - [Reversing.kr - Easy Keygen](https://cdong1012.github.io//reverse%20engineering/2020/09/06/Reversing-kr-2/)
 - [Reversing.kr - Easy Crack](https://cdong1012.github.io//reverse%20engineering/2020/09/05/Reversing-kr-1/)
 - [Malware Launching - Packing](https://cdong1012.github.io//malware%20development/2020/08/24/Packer/)
-- [Open Shortest Path First](https://cdong1012.github.io//network%20engineering/2020/08/23/OSPF/)
 <!-- BLOG-POST-LIST:END -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cdong1012)](https://github.com/anuraghazra/github-readme-stats)
