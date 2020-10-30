@@ -5,7 +5,7 @@
 
 ## I'm a third-year CS major at Georgia Institute of Technology!
 - :electric_plug: I'm currently an Information Technology Intern - Network Engineering at [Union Pacific](https://www.up.com/index.htm) for Fall 2020
-- :alien: I'll join FireEye's FLARE team as a Reverse Engineering Intern for Summer 2021
+- :alien: I'll be joining FireEye's FLARE team as a Reverse Engineering Intern for Summer 2021
 - :space_invader: I'm currently learning malware analysis and malware development in my free time!
 - :star: 2020 goals: I want to spend more time learning networking and network security
 - :octopus: Most favorite languages: Python <img alt="Python" width="28px" src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/python/python_32x32.png" /> and Rust <img alt="Rust" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/rust/rust.png" />
