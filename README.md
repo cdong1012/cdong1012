@@ -41,11 +41,11 @@
 
 ## :computer: My latest blog posts 
 <!-- BLOG-POST-LIST:START -->
+- [Zero2Automated Custom Sample](https://cdong1012.github.io//reverse%20engineering/2020/11/11/zero2auto/)
 - [Flare-On 7 - Challenge 1](https://cdong1012.github.io//reverse%20engineering/2020/10/24/FLAREON7-1/)
 - [Flare-On 7 - Challenge 2](https://cdong1012.github.io//reverse%20engineering/2020/10/24/FLAREON7-2/)
 - [Reversing.kr - Replace](https://cdong1012.github.io//reverse%20engineering/2020/09/10/Reversing-kr-3/)
 - [Reversing.kr - Ransomware](https://cdong1012.github.io//reverse%20engineering/2020/09/10/Reversing-kr-4/)
-- [Reversing.kr - Easy Keygen](https://cdong1012.github.io//reverse%20engineering/2020/09/06/Reversing-kr-2/)
 <!-- BLOG-POST-LIST:END -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cdong1012)](https://github.com/anuraghazra/github-readme-stats)
