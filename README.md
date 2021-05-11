@@ -4,8 +4,8 @@
 ## Hello, I'm Chuong!
 
 ## I'm a third-year CS major at Georgia Institute of Technology!
-- :electric_plug: I'm a former Information Technology Intern - Network Engineering at [Union Pacific](https://www.up.com/index.htm) for Fall 2020
-- :alien: I'll be joining [FireEye](https://www.fireeye.com/)'s FLARE team as a Reverse Engineering Intern for Summer 2021
+- :alien: [FireEye](https://www.fireeye.com/)'s FLARE Intern for Summer 2021
+- :electric_plug: Former Information Technology Intern - Network Engineering at [Union Pacific](https://www.up.com/index.htm) for Fall 2020
 - :space_invader: I do malware analysis and malware development for fun!
 - :octopus: Most favorite languages: Python <img alt="Python" width="28px" src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/python/python_32x32.png" /> and Rust <img alt="Rust" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/rust/rust.png" />
 
