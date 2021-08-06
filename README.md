@@ -3,7 +3,7 @@
 
 ## Hello, I'm Chuong!
 
-## I'm a third-year CS major at Georgia Institute of Technology!
+## I'm a fourth-year CS major at Georgia Institute of Technology!
 - :alien: [FireEye](https://www.fireeye.com/)'s FLARE Intern for Summer 2021
 - :electric_plug: Former [Union Pacific](https://www.up.com/index.htm) Information Technology Intern - Network Engineering for Fall 2020
 - :space_invader: I do malware analysis and malware development for fun!
