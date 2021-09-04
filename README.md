@@ -40,11 +40,11 @@
 
 ## :computer: My latest blog posts 
 <!-- BLOG-POST-LIST:START -->
+- [BlackMatter Ransomware v2.0](https://cdong1012.github.io//reverse%20engineering/2021/09/05/BlackMatterRansomware/)
 - [MountLocker Ransomware](https://cdong1012.github.io//reverse%20engineering/2021/05/23/MountLockerRansomware/)
 - [Darkside Ransomware](https://cdong1012.github.io//reverse%20engineering/2021/05/06/DarksideRansomware/)
 - [Babuk Ransomware v3](https://cdong1012.github.io//reverse%20engineering/2021/01/16/BabukRansomware-v3/)
 - [Babuk Ransomware](https://cdong1012.github.io//reverse%20engineering/2021/01/03/BabukRansomware/)
-- [Conti Ransomware](https://cdong1012.github.io//reverse%20engineering/2020/12/15/ContiRansomware/)
 <!-- BLOG-POST-LIST:END -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cdong1012)](https://github.com/anuraghazra/github-readme-stats)
