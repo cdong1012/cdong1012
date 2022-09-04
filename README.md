@@ -7,7 +7,7 @@
 - :alien: Former [Mandiant](https://www.mandiant.com/)'s FLARE Intern for Summer 2021
 - :electric_plug: Former [Union Pacific](https://www.up.com/index.htm) Information Technology Intern - Network Engineering for Fall 2020
 - :space_invader: I do malware analysis and malware development for fun!
-- :octopus: Most favorite languages: Python <img alt="Python" width="28px" src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/python/python_32x32.png" /> and Rust <img alt="Rust" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/rust/rust.png" />
+- :octopus: Languages I code in: Python <img alt="Python" width="28px" src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/python/python_32x32.png" /> and Rust <img alt="Rust" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/rust/rust.png" />
 
 
 ### Connect with me:
