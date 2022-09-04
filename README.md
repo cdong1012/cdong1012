@@ -39,11 +39,11 @@
 
 ## :computer: My latest blog posts 
 <!-- BLOG-POST-LIST:START -->
+- [PLAY Ransomware](https://cdong1012.github.io//reverse%20engineering/2022/09/03/PLAYRansomware/)
 - [LockBit Ransomware v2.0](https://cdong1012.github.io//reverse%20engineering/2022/03/19/LockbitRansomware/)
 - [Rook Ransomware](https://cdong1012.github.io//reverse%20engineering/2022/01/06/RookRansomware/)
 - [Diavol Ransomware](https://cdong1012.github.io//reverse%20engineering/2021/12/17/DiavolRansomware/)
 - [AtomSilo Ransomware](https://cdong1012.github.io//reverse%20engineering/2021/10/13/AtomSiloRansomware/)
-- [BlackMatter Ransomware v2.0](https://cdong1012.github.io//reverse%20engineering/2021/09/05/BlackMatterRansomware/)
 <!-- BLOG-POST-LIST:END -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cdong1012)](https://github.com/anuraghazra/github-readme-stats)
