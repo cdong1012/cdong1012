@@ -3,7 +3,7 @@
 
 ## Hello, I'm Chuong!
 
-## I'm a fifth-year CS major at Georgia Institute of Technology!
+## I'm a Reverse Engineer at Google Cloud/Mandiant.
 - :alien: Former [Mandiant](https://www.mandiant.com/)'s FLARE Intern for Summer 2021
 - :electric_plug: Former [Union Pacific](https://www.up.com/index.htm) Information Technology Intern - Network Engineering for Fall 2020
 - :space_invader: I do malware analysis in my free time!
