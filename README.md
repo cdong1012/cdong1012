@@ -46,7 +46,8 @@
 - [AtomSilo Ransomware](https://cdong1012.github.io//reverse%20engineering/2021/10/13/AtomSiloRansomware/)
 <!-- BLOG-POST-LIST:END -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cdong1012)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=cdong1012)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 [website]: https://cdong1012.github.io/
