@@ -40,7 +40,7 @@
 ## :computer: My latest blog posts 
 <!-- BLOG-POST-LIST:START -->
 - [LockBit Ransomware v4.0](https://cdong1012.github.io//reverse%20engineering/2025/03/15/Lockbit4Ransomware/)
-- [Lockbit4ransomware](https://cdong1012.github.io//2024/03/15/Lockbit4Ransomware/)
+- [Lockbit4ransomware](https://cdong1012.github.io//reverse%20engineering/2024/03/15/Lockbit4Ransomware/)
 - [PLAY Ransomware](https://cdong1012.github.io//reverse%20engineering/2022/09/03/PLAYRansomware/)
 - [LockBit Ransomware v2.0](https://cdong1012.github.io//reverse%20engineering/2022/03/19/LockbitRansomware/)
 - [Rook Ransomware](https://cdong1012.github.io//reverse%20engineering/2022/01/06/RookRansomware/)
