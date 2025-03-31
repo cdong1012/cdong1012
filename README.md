@@ -25,5 +25,5 @@
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=cdong1012)](https://github.com/anuraghazra/github-readme-stats)
 
-[website]: https://cdong1012.github.io/
-[linkedin]: https://www.linkedin.com/in/chuong-dong-1012/
+[website]: https://chuongdong.com/
+[linkedin]: [https://www.linkedin.com/in/chuong-dong-1012/](https://www.linkedin.com/in/chuong-dong/)
