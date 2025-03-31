@@ -6,7 +6,6 @@
 ## I'm a Senior Reverse Engineer at Microsoft (MSTIC).
 - :alien: Former [Mandiant](https://www.mandiant.com/)'s FLARE Reverse Engineeer
 
-- 
 ### Connect with me:
 
 [<img align="left" alt="https://chuongdong.com/" width="25px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
